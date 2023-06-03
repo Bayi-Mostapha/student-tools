@@ -3,6 +3,7 @@ A university project that you can log in and use a calculator and generate a gra
 
 ## Project Overview
 This students tool website project, is developed by Mostapha Bayi (@Bayi-Mostapha) and Reda El Khayati (@redaelkhayati), our main goal is to provide a website that is intuitive, efficient, and offers essential features to enhance the user experience.
+You can visit the live version of the website at https://bayi-mostapha.github.io/student-tools/
 
 ## Features
 The project focuses on simplicity and functionality, offering the following key features:
